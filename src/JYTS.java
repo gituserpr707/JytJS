@@ -4,6 +4,10 @@ public class JYTS {
     }
     public void gitbugFix(){}
 
+    public void feature(){}
+
+    public void feature2(){}
+
     public static void main(String args[]) {
     }
 }
